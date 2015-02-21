@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>66C64A51-66E9-432A-91C8-A88BA1FADFD4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeatherReport</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4137978A-1F06-4153-A0A2-6DF45B471D1D</key>
+		<string>https://github.com/surabhichopada/WeatherForecast.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WeatherReport.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4137978A-1F06-4153-A0A2-6DF45B471D1D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/surabhichopada/WeatherForecast.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4137978A-1F06-4153-A0A2-6DF45B471D1D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4137978A-1F06-4153-A0A2-6DF45B471D1D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WeatherReport</string>
+		</dict>
+	</array>
+</dict>
+</plist>
