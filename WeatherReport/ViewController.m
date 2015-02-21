@@ -58,7 +58,7 @@ int count=1;
     self.navigationItem.rightBarButtonItem = rightButton;
     
     UILabel *title=[[UILabel alloc]initWithFrame:CGRectMake(0,5,70,20)];
-    title.text=@"Add Your City";
+    title.text=@"Add City";
     title.textColor=[UIColor whiteColor];
     self.navigationItem.titleView=title;
 
