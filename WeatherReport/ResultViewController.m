@@ -78,7 +78,7 @@ int counter = 0;
     [manager GET: string parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
         NSMutableArray *data =[responseObject valueForKeyPath:@"list"];
      
-        NSLog(@"response data %@",responseObject);
+     
         self.clouds=[[NSMutableArray alloc]init];
           self.deg=[[NSMutableArray alloc]init];
           self.dt=[[NSMutableArray alloc]init];
